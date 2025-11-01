@@ -34,7 +34,7 @@ const BackgroundImage = styled.div`
   height: 100%;
   opacity: 0.3;
   background: linear-gradient(to right, rgba(0,0,0,0.2), transparent),
-              url('/maxresdefault.jpg') center/cover;
+              url('/yesyes/maxresdefault.jpg') center/cover;
   filter: blur(2px);
 `
 

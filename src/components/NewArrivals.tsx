@@ -224,7 +224,7 @@ const ProductImage = styled.div`
   width: 100%;
   height: 250px;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  background-image: url('/maxresdefault.jpg');
+  background-image: url('/yesyes/maxresdefault.jpg');
   background-size: cover;
   background-position: center;
   opacity: 0.8;
